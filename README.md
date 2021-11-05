@@ -21,7 +21,7 @@ Dynamxelによる2Wheelステアリング方式で、まずは操縦型のロボ
 
 [8. DX2WS 3Dプリンターデータ](#8)
 
-[<R2CVに戻る>](https://github.com/nishibra/r2cv) 
+[<R2CVに戻る>](https://github.com/nishibra/r2cv-1) 
 
 ---
 <a id="1"></a>
